@@ -67,3 +67,4 @@ C:\Users\dziub\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetC
 C:\Users\dziub\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\dziub\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\dziub\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dziub\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
