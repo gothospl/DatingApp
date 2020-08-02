@@ -76,8 +76,6 @@ namespace DatingApp.API.Controllers
             return Ok(new{
                 token = tokenHandler.WriteToken(token)
             });
-
-            return StatusCode(500, "Seriously, fuck you, dude!");
         }
     }
 }
