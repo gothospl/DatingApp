@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "le0kiEM5rvjL63aWYr1mRzKGTH5arawSpHTjqGcvCJARKcqE/P0fX7zx0BUENSfAx608sV4rlyAZ1BuBkOTS8g==",
+  "dgSpecHash": "TnN8X5FnmEAk6Jr+YX7zEW+CEtuW2dsqU980BnZH5Lk6wRQLk43FCrJCL4c8CtIgnmS6XSYIg0/yzyzrYeei6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dziub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+  "projectFilePath": "c:\\Users\\dziub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dziub\\.nuget\\packages\\alertifyjs\\1.13.1\\alertifyjs.1.13.1.nupkg.sha512",
     "C:\\Users\\dziub\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\dziub\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\dziub\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
