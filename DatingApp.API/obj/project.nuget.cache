@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnN8X5FnmEAk6Jr+YX7zEW+CEtuW2dsqU980BnZH5Lk6wRQLk43FCrJCL4c8CtIgnmS6XSYIg0/yzyzrYeei6Q==",
+  "dgSpecHash": "OB/vEb2jL2CPiMxol30EDp0gpL3rb3JH27VGQn7VlWM361DYIfaLOKDk2ujF4KyJGD8vlLd4f8D00eriCjN0bw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dziub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+  "projectFilePath": "C:\\Users\\dziub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dziub\\.nuget\\packages\\alertifyjs\\1.13.1\\alertifyjs.1.13.1.nupkg.sha512",
     "C:\\Users\\dziub\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
